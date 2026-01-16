@@ -738,5 +738,13 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "poster_vlm_pre1_simple100": {
+    "file_name": "/apdcephfs_cq9/share_1447896/xuehuiyu/Workspace/work/ProductPoster/dataset2/json/vlm/pre_state_regnize_simple100.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
   }
 }
